@@ -1,3 +1,5 @@
+# [cyril-meyer.github.io/lookscanned.deploy/](https://cyril-meyer.github.io/lookscanned.deploy/)
+
 # 📚 Look Scanned Community Edition
 
 ![GitHub Workflow Status (main)](https://img.shields.io/github/actions/workflow/status/rwv/lookscanned.io/ci.yml?branch=main)
